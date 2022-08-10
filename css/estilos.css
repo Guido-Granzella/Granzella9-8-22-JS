@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;500&family=Titillium+Web:wght@200&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: 'Nunito', sans-serif;
+}
+
+body{
+    background-color: brown;
+}
+
+nav {
+    background-color: goldenrod;
+    padding: 1em 0em 1em 0em;
+    border: 0em 1em 1em 1em;
+}
+picture img {
+    height: 6em;
+}
+
+li {
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+    color: brown;
+    font-size: 2em;
+}
+
+li a:hover {
+    text-decoration: none;
+    color: #f2f2f2;
+    border-style: none;
+    padding: 0.3em;
+    border-color: brown;
+    background-color: brown;
+}
+
+h1 {
+    font-size: 4em;
+    color: #f2f2f2;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: baseline;
+}
+
+h2{
+    font-size: 5em;
+    color: black;
+}
+
+h3{
+    font-size: 4em;
+    color: black;
+}
+
+h4{
+    font-size: 3em;
+    color: black;
+}
+
+p{
+    font-size: 2em;
+    color: #f2f2f2;
+}
+
+h1:hover {
+    text-decoration: none;
+    color: black;
+    border-style: none;
+    border-color: brown;
+}
+
+section{
+
+}
+
+.inicio{
+
+}
+
+.section1{
+    background-repeat: no-repeat;
+    background-image: ;
+}
+
+.section2{
+
+}
+
+.section3{
+    background-repeat: no-repeat;
+    background-image: ;
+}
